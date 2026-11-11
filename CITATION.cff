@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this project, cite the software and the original CDC dataset separately."
+title: "Casecast: Disease Trend Forecasting"
+type: software
+version: 1.0.0
+date-released: 2026-11-11
+authors:
+  - family-names: Gautam
+    given-names: Abhinav
+repository-code: "https://github.com/abhinavgautam121/disease-trend-forecasting"
+license: MIT

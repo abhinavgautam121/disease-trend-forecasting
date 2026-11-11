@@ -1,0 +1,16 @@
+{
+  "state": "CA",
+  "geography": "California, United States",
+  "disease": "COVID-19",
+  "dataset_id": "pwn4-m3yp",
+  "horizons": [1, 2, 4],
+  "validation_weeks": 26,
+  "calibration_weeks": 39,
+  "test_weeks": 26,
+  "seed": 42,
+  "rf_candidates": [
+    {"n_estimators": 150, "max_depth": 6, "min_samples_leaf": 2, "max_features": 0.8},
+    {"n_estimators": 150, "max_depth": null, "min_samples_leaf": 5, "max_features": 1.0}
+  ]
+}
+

@@ -1,0 +1,11 @@
+{
+  "tool": "Playwright Chromium",
+  "checks_passed": [
+    "Archive forecast rendered without visible exception",
+    "Model comparison tab opened",
+    "Data observatory tab opened",
+    "Method & limitations tab opened",
+    "Backtest explorer and Random Forest model controls work",
+    "Forecast CSV download initiated successfully"
+  ]
+}

@@ -1,0 +1,3 @@
+candidate,mae,n_estimators,max_depth,min_samples_leaf,max_features
+0,103711.38654977312,150,6.0,2,0.8
+1,108988.69228642232,150,,5,1.0
